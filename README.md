@@ -1,2 +1,2 @@
-# Big-fish-eat-small-fish
-小游戏 大鱼吃小鱼
+# 大鱼吃小鱼
+用Stretch做的小游戏 
